@@ -1,8 +1,4 @@
-### ![](C:\Users\Swagger\Documents\Need to Backup\My Courses\pyspark Advanced\btb_logo -mini2.JPG) Gradle project from Scratch and import in Eclipse
-
-![](https://i.ibb.co/3psYF7z/btb-logo-mini2.jpg)
-
-
+### ![](https://i.ibb.co/3psYF7z/btb-logo-mini2.jpg) Gradle project from Scratch and import in Eclipse
 
 - **Step 1**  :  create directory and initialize the gradle 
 
