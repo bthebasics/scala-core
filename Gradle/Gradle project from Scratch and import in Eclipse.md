@@ -1,4 +1,6 @@
-### Gradle project from Scratch and import in Eclipse
+### ![](C:\Users\Swagger\Documents\Need to Backup\My Courses\pyspark Advanced\btb_logo -mini2.JPG) Gradle project from Scratch and import in Eclipse
+
+![](https://i.ibb.co/3psYF7z/btb-logo-mini2.jpg)
 
 
 
@@ -80,7 +82,5 @@ object GradleHellow extends App {
                
 }
 ```
-
-
 
 - **Step 5:** Open project in eclipse and check if you are able to create the Scala Object and if all the dependencies are resolved.
